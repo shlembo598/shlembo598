@@ -1,6 +1,6 @@
 ![Header](https://github.com/shlembo598/shlembo598/blob/main/assets/header.jpg)
 
-## I'm a beginner Mobile APP Developer
+## Mobile Developer
 
 ### Langueges and tools
 ![Flutter](https://img.shields.io/badge/-Flutter-5F5E5A?style=for-the-badge&logo=flutter&logoColor=29B6F6)
