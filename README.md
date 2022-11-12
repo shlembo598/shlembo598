@@ -9,6 +9,3 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-5F5E5A?style=for-the-badge&logo=firebase&logoColor=FEC727)
 
 ![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlembo598&hide=stars&count_private=true&show_icons=true&theme=nord) 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=shlembo598&badges=1&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
