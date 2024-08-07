@@ -1,6 +1,6 @@
 ![Header](https://github.com/shlembo598/shlembo598/blob/main/assets/header.jpg)
 
-## Flutter Developer
+## Go and Flutter Developer
 
 ### Languages and tools
 ![Go](https://img.shields.io/badge/-Go-808080?style=for-the-badge&logo=go&logoColor=00ADD8)
