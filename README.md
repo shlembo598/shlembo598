@@ -9,5 +9,3 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-808080?style=for-the-badge&logo=flutter&logoColor=29B6F6)
 ![Dart](https://img.shields.io/badge/-Dart-808080?style=for-the-badge&logo=dart&logoColor=29B6F6)
 ![Firebase](https://img.shields.io/badge/-Firebase-808080?style=for-the-badge&logo=firebase&logoColor=FEC727)
-
-![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlembo598&hide=stars&count_private=true&show_icons=true&theme=nord) 
